@@ -1,0 +1,19 @@
+div.nav-tab {
+	background-color: #F1EED9;
+	border-style: solid;
+}
+
+a:link.navigation {
+	text-decoration: none;
+	color: navy;
+}
+
+body > div:hover.nav-tab {
+	color: #58351A;
+}
+
+body {
+  background-color: #F6F8EE;
+  color: #121310;
+  
+}
